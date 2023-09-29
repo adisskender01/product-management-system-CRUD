@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMSystem.API", "PMSystem.API\PMSystem.API.csproj", "{A858F3CE-E6C5-47C7-A92B-3B29099780FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A858F3CE-E6C5-47C7-A92B-3B29099780FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A858F3CE-E6C5-47C7-A92B-3B29099780FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A858F3CE-E6C5-47C7-A92B-3B29099780FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A858F3CE-E6C5-47C7-A92B-3B29099780FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D1DFBE-C114-41B2-A89A-42882FC5290D}
+	EndGlobalSection
+EndGlobal
